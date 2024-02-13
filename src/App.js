@@ -5,7 +5,7 @@ import {BrowserRouter, Routes, Route } from 'react-router-dom';
 // import  from 'react-router-dom';
 import Home from './Home';
 import Main from './Main';
-import AdminLogin from './AdminLogin';
+import AdminLogin from './auth/AdminLogin';
 // import Main from './Main';
 
 function App() {
